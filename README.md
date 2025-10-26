@@ -1,1 +1,1 @@
-# chronoverse-eslint-x
+# @gratisvictory/chronoverse-eslint-x
